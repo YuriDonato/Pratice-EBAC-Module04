@@ -14,9 +14,6 @@ class Tarefa3 {
 
 
 fun main(){
-   // val funcaoTipo = {numTipo: Int,numtipo2: Int -> println(numTipo/5)}
-
-    //Necessario
 
     //Etapa 1
     val funcaoSoma = {num1: Int,num2: Int -> println("A soma de $num1 + $num2 = ${num1+num2}")}
